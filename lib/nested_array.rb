@@ -24,6 +24,12 @@ def assembled_matrix
   "Kate Gompert",
   "Bruce Green"
 ]
+ENFIELD_TENNIS_ACADEMY = [
+  "Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"
   # Build an array that contains (or, "nests") the residents of The Ennet House
   # and the Enfield Tennis Academy as provided by the constants
 end
